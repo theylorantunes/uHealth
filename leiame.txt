@@ -1,0 +1,3 @@
+extraia o uhealth em uma pasta
+
+apos isso abra ele como projeto no netbeans
